@@ -1,0 +1,65 @@
+{
+    "companyName": "I-Scream Company Inc.",
+    "headOffice": "North Pole",
+    "established": 2023,
+    "active": true,
+    "topFlavors": [{
+        "name": "Chocolate Mint",
+        "calories": 300,
+        "type": "ice-cream",
+        "ingredients": [
+            "Chocolate Syrup",
+            "Peppermint Sprinkle",
+            "Vanilla Base"
+        ],
+        "image": "https://priyansht.github.io/23F-JavaScript-02-Week11/images/chocolate-mint.svg"
+    }, {
+        "name": "Peach Mango",
+        "calories": 350,
+        "type": "milkshake-type ice-cream",
+        "ingredients": [
+            "Peach Syrup",
+            "Mango Chunks",
+            "Vanilla Base"
+        ],
+        "image": "https://priyansht.github.io/23F-JavaScript-02-Week11/images/peach-mango.svg"
+    }, {
+        "name": "Strawberry Sprinkle",
+        "calories": 400,
+        "type": "ice-cream",
+        "ingredients": [
+            "Strawberry Syrup",
+            "Some Sprinkles",
+            "Vanilla Base"
+        ],
+        "image": "https://priyansht.github.io/23F-JavaScript-02-Week11/images/strawberry-sprinkle.svg"
+        
+    },
+    {
+        "name": "Vanilla Delight",
+        "calories": 280,
+        "type": "classic",
+        "ingredients": [
+          "Vanilla Syrup",
+          "Colorful Sprinkles",
+          "Vanilla Base"
+        ],
+        "image": "https://priyansht.github.io/23F-JavaScript-02-Week11/images/strawberry-sprinkle.svg"
+      },
+      {
+        "name": "Pistachio Paradise",
+        "calories": 320,
+        "type": "ice-cream",
+        "ingredients": ["Pistachio Nuts", "Vanilla Base"],
+        "image":"https://priyansht.github.io/23F-JavaScript-03-Week11/images/ice-cream-xtra1.svg"
+
+      },
+      {
+        "name": "Cookies and Cream",
+        "calories": 380,
+        "type": "ice-cream",
+        "ingredients": ["Chocolate Cookies", "Vanilla Base"],
+        "image": "https://priyansht.github.io/23F-JavaScript-03-Week11/images/ice-cream-xtra2.svg"
+      }
+]
+}
